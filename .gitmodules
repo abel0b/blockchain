@@ -1,0 +1,3 @@
+[submodule "deps/inut"]
+	path = deps/inut
+	url = git@github.com:abeliam/inut.git
